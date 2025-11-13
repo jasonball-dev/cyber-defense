@@ -91,13 +91,13 @@ The project successfully demonstrated:
 ---
 
 ## Assets & Licensing
-Some 3D environment assets were removed because they were based on **paid Unity Asset Store content**.  
-The uploaded version includes all **scripts, logic, and systems** but excludes proprietary models and textures.
+Some 3D environment assets were removed because they were based on paid Unity Asset Store content.  
+The uploaded version includes all scripts, logic, and systems but excludes proprietary models and textures.
 
 ---
 
 ## Technologies
-**Unity Engine**, **C#**, **Netcode for GameObjects**, **Relay & Lobby Services**, **Plastic SCM**, **GitHub**
+**Unity Engine**, **C#**, **Netcode for GameObjects**, **Relay & Lobby Services**, **Plastic SCM**
 
 ---
 
